@@ -21,13 +21,13 @@
   <li><a href="#installation">Installation</a></li>
   <li><a href="#usage">Usage</a></li>
   <li><a href="#results">Results</a></li>
-  </ol>
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
+  </ol>
     <h2 id="project-overview">Project Overview</h2>
 <p>This repository contains basic machine learning projects to understand concepts such as linear and logisitic regression. Well-known datasets such as the headbrain dataset and titanic data set have been used for data analysis.</p>
 
