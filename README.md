@@ -40,7 +40,6 @@
 <ul>
   <li><b>Google Colab</li>
   <li><b>Pandas</li>
-      <li><b>Pandas</li>
           <li><b>NumPy</li>
               <li><b>Matplotlib</li>
                   <li><b>Seaborn</li>
