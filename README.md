@@ -73,7 +73,7 @@
   <li><b>Navigate to the project directory</b>:</li>
 </ol>
 
-<pre><code>cd ml-projects</code></pre>
+<pre><code>cd Machine-Learning</code></pre>
 
 <ol start="3">
   <li><b>Open the notebooks</b>:</li>
