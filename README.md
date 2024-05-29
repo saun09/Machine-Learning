@@ -61,14 +61,14 @@
 
 <pre><code>pip install pandas numpy matplotlib seaborn scikit-learn</code></pre>
 
-<p>Alternatively, you can open the notebooks directly in Google Colab, which comes with these dependencies pre-installed.</p>
+<p>Alternatively, you can open the notebooks directly in Google Colab.</p>
 
 <h2 id="usage">Usage</h2>
 <ol>
   <li><b>Clone the repository</b>:</li>
 </ol>
 
-<pre><code>git clone https://github.com/yourusername/ml-projects.git</code></pre>
+<pre><code>git clone https://github.com/saun09/ml-projects.git</code></pre>
 
 <ol start="2">
   <li><b>Navigate to the project directory</b>:</li>
