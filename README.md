@@ -36,6 +36,20 @@
   <li><b>Headbrain Dataset</b>: Includes measurements of the head and brain, such as head size and brain weight. The objective is to understand the relationship between head size and brain weight and predict brain weight based on head size.</li>
 </ul>
 
+<h2 id="Built With">Built With</h2>
+<ul>
+  <li><b>Google Colab</li>
+  <li><b>Pandas</li>
+      <li><b>Pandas</li>
+          <li><b>NumPy</li>
+              <li><b>Matplotlib</li>
+                  <li><b>Seaborn</li>
+                      <li><b>Seaborn</li>
+                        Scikit-learn
+</ul>
+
+
+
 <h2 id="notebooks">Notebooks</h2>
 <p>The repository contains the following notebooks:</p>
 <ul>
