@@ -43,7 +43,6 @@
           <li><b>NumPy</li>
               <li><b>Matplotlib</li>
                   <li><b>Seaborn</li>
-                      <li><b>Seaborn</li>
                         Scikit-learn
 </ul>
 
