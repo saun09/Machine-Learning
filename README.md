@@ -30,7 +30,7 @@
 <p>This repository contains basic machine learning projects to understand concepts such as linear and logisitic regression. Well-known datasets such as the headbrain dataset and titanic data set have been used for data analysis.</p>
 
 <h2 id="datasets">Datasets</h2>
-<p>Details about the datasets used in this project:</p>
+
 <ul>
   <li><b>Titanic Dataset</b>: Contains information about the passengers of the Titanic, including attributes such as age, gender, class, and survival status. The objective is to predict the survival of passengers based on these attributes.</li>
   <li><b>Headbrain Dataset</b>: Includes measurements of the head and brain, such as head size and brain weight. The objective is to understand the relationship between head size and brain weight and predict brain weight based on head size.</li>
