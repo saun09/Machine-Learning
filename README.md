@@ -9,7 +9,7 @@
 <h3 align="center">MACHINE LEARNING</h3>
 
   <p align="center">
-    This repository contains various machine learning projects which use Google Colab and Jupyter Notebook to analyze and explore different datasets such as the headbrain dataset , titanic dataset , etc.
+    This repository contains various machine learning projects which use Google Colab and Jupyter Notebook to analyze different datasets such as the headbrain dataset , titanic dataset , etc.
     <br />
 
 <!-- TABLE OF CONTENTS -->
