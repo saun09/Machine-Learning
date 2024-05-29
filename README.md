@@ -51,8 +51,8 @@
 <h2 id="notebooks">Notebooks</h2>
 <p>The repository contains the following notebooks:</p>
 <ul>
-  <li><b>Logisitic Regression ML 2.ipynb</b>: Detailed analysis and model building on the Titanic dataset.</li>
-  <li><b>Linear Regression.ipynb</b>: Detailed analysis and model building on the Headbrain dataset.</li>
+  <li><b>Logisitic Regression ML 2.ipynb</b>: Analysis on the Titanic dataset.</li>
+  <li><b>Linear Regression.ipynb</b>: Analysis on the Headbrain dataset.</li>
 </ul>
 
 <h2 id="installation">Installation</h2>
