@@ -23,9 +23,7 @@
   <li><a href="#results">Results</a></li>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
         <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
   </ol>
     <h2 id="project-overview">Project Overview</h2>
