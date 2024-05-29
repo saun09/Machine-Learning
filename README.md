@@ -68,7 +68,7 @@
   <li><b>Clone the repository</b>:</li>
 </ol>
 
-<pre><code>git clone https://github.com/saun09/ml-projects.git</code></pre>
+<pre><code>git clone https://github.com/saun09/Machine-Learning.git</code></pre>
 
 <ol start="2">
   <li><b>Navigate to the project directory</b>:</li>
