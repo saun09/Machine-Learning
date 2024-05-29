@@ -56,7 +56,7 @@
 </ul>
 
 <h2 id="installation">Installation</h2>
-<p>To run the notebooks locally, you need to install the following dependencies:</p>
+<p>To run the notebooks locally, you need to install the following :</p>
 
 <pre><code>pip install pandas numpy matplotlib seaborn scikit-learn</code></pre>
 
@@ -90,7 +90,6 @@
 </ol>
 
 <h2 id="results">Results</h2>
-<p>The results section in each notebook provides insights and evaluation metrics for the models trained. Here is a brief summary:</p>
 <ul>
   <li><b>Titanic Dataset</b>: The models predict the survival of passengers with detailed performance metrics such as accuracy, precision, recall, and F1-score. Graphs are plotted to show comparsion between factors such as ticket fare, passenger class and age.</li>
   <li><b>Headbrain Dataset</b>: The regression models show a  correlation between head size and brain weight, with performance metrics such as mean squared error (MSE) and R-squared value.</li>
