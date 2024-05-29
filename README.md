@@ -30,7 +30,7 @@
       </ul>
     </li>
     <h2 id="project-overview">Project Overview</h2>
-<p>This section provides an overview of the project, including the steps involved in analyzing and modeling the data.</p>
+<p>This repository contains basic machine learning projects to understand concepts such as linear and logisitic regression. Well-known datasets such as the headbrain dataset and titanic data set have been used for data analysis.</p>
 
 <h2 id="datasets">Datasets</h2>
 <p>Details about the datasets used in this project:</p>
@@ -42,8 +42,8 @@
 <h2 id="notebooks">Notebooks</h2>
 <p>The repository contains the following notebooks:</p>
 <ul>
-  <li><b>Titanic Analysis.ipynb</b>: Detailed analysis and model building on the Titanic dataset.</li>
-  <li><b>Headbrain Analysis.ipynb</b>: Detailed analysis and model building on the Headbrain dataset.</li>
+  <li><b>Logisitic Regression ML 2.ipynb</b>: Detailed analysis and model building on the Titanic dataset.</li>
+  <li><b>Linear Regression.ipynb</b>: Detailed analysis and model building on the Headbrain dataset.</li>
 </ul>
 
 <h2 id="installation">Installation</h2>
@@ -83,21 +83,6 @@
 <h2 id="results">Results</h2>
 <p>The results section in each notebook provides insights and evaluation metrics for the models trained. Here is a brief summary:</p>
 <ul>
-  <li><b>Titanic Dataset</b>: The models predict the survival of passengers with reasonable accuracy, with detailed performance metrics such as accuracy, precision, recall, and F1-score.</li>
-  <li><b>Headbrain Dataset</b>: The regression models show a strong correlation between head size and brain weight, with performance metrics such as mean squared error (MSE) and R-squared value.</li>
+  <li><b>Titanic Dataset</b>: The models predict the survival of passengers with detailed performance metrics such as accuracy, precision, recall, and F1-score. Graphs are plotted to show comparsion between factors such as ticket fare, passenger class and age.</li>
+  <li><b>Headbrain Dataset</b>: The regression models show a  correlation between head size and brain weight, with performance metrics such as mean squared error (MSE) and R-squared value.</li>
 </ul>
-
-<h2 id="contributing">Contributing</h2>
-<p>Contributions are welcome! If you have any suggestions, bug reports, or improvements, please submit an issue or create a pull request.</p>
-<ol>
-  <li>Fork the repository.</li>
-  <li>Create a new branch (<code>git checkout -b feature-branch</code>).</li>
-  <li>Commit your changes (<code>git commit -am 'Add new feature'</code>).</li>
-  <li>Push to the branch (<code>git push origin feature-branch</code>).</li>
-  <li>Create a new pull request.</li>
-</ol>
-
-<h2 id="license">License</h2>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-
-<hr>
