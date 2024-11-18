@@ -10,8 +10,7 @@ This repository contains a few machine learning projects that helped me learn an
 
 
 ## Project Overview
-
-In this repository, I have explored various **machine learning** concepts using well-known datasets. 
+I’ve worked with algorithms like Random Forest and Decision Trees for classification and regression tasks, alongside exploring NLP and OCR . Using OCR, I extracted text from images, and with NLP, I processed and analyzed this text for meaningful insights.
 
 ## Notebooks
 
