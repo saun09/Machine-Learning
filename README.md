@@ -1,4 +1,4 @@
-**# Machine Learning Projects
+**# Machine Learning Projects**
 
 
 This repository contains a few machine learning projects that helped me learn and understand core concepts!
