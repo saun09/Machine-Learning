@@ -5,7 +5,6 @@ This repository contains a few machine learning projects that helped me learn an
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Datasets](#datasets)
 - [Notebooks](#notebooks)
 
 
@@ -13,26 +12,6 @@ This repository contains a few machine learning projects that helped me learn an
 ## Project Overview
 
 In this repository, I have explored various **machine learning** concepts using well-known datasets. 
-## Datasets
-
-### Titanic Dataset
-
-The Titanic dataset contains data on the passengers aboard the Titanic, including attributes like age, gender, class, and survival status. The objective is to predict whether a passenger survived or not based on these features.
-
-**Key features**:
-- `Age`
-- `Gender`
-- `Class`
-- `Fare`
-- `Survival Status` (Target)
-
-### Headbrain Dataset
-
-This dataset includes measurements of head size and brain weight. The goal is to predict brain weight based on head size using regression techniques.
-
-**Key features**:
-- `Head size`
-- `Brain weight` (Target)
 
 ## Notebooks
 
